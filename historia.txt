@@ -2,3 +2,5 @@ Ingeniero en sistemas, Noe Cortez. Tengo 27 years old.
 Soy de El Salvador. Vivo en el departamento de Cuscatlan.
 
 Actualmente soy desarrollador FrontEnd.
+
+Mi lenguaje favorito de programacion es JavaScript.
